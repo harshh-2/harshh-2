@@ -13,7 +13,7 @@
 - 💻 Languages: C++, Python,Java, HTML/CSS, JavaScript
 - 🌐 Web: Building landing pages & UI clones (Amazon, etc.)
 - 🔧 Tools: VS Code, Git & GitHub, Chrome DevTools
-- 📚 Currently Learning: DSA (grind mode 🧠), DOM, JS Events
+- 📚 Currently Learning: DSA, DOM, JS Events
 
 ---
 
@@ -37,8 +37,8 @@
 
 ---
 
-### 🧵 Random Dev Thought
-> `Sometimes the bug is not in your code. It's in your brain. And that's okay.`
+### 🧵Hobbies
+> `Pushing code, breaking things, fixing them — sometimes in that order .`
 
 ---
 
