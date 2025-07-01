@@ -43,8 +43,8 @@
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn]((https://www.linkedin.com/in/harsh-dubey-377971308))
-- [LeetCode]([https://leetcode.com/YOUR-ID/](https://leetcode.com/u/Harshh-2-/)) (115+ problems and counting)
+- [LinkedIn](https://www.linkedin.com/in/harsh-dubey-377971308)
+- [LeetCode](https://leetcode.com/u/Harshh-2-/)(115+ problems and counting)
 - [GitHub](https://github.com/harshh-2)
 
 ---
