@@ -5,13 +5,12 @@
 <p align="center">
   🧑‍💻 B.Tech CSE @ SRM | C++ • Python • Web Dev<br>
   🔨 Currently building cool UI stuff, solving 115+ LeetCode problems, and breaking things to learn faster<br>
-  ☕ Fueled by chai & late-night debugging
 </p>
 
 ---
 
 ### 🛠️ Tech I'm Playing With
-- 💻 Languages: C++, Python, HTML/CSS, JavaScript
+- 💻 Languages: C++, Python,Java, HTML/CSS, JavaScript
 - 🌐 Web: Building landing pages & UI clones (Amazon, etc.)
 - 🔧 Tools: VS Code, Git & GitHub, Chrome DevTools
 - 📚 Currently Learning: DSA (grind mode 🧠), DOM, JS Events
@@ -44,8 +43,8 @@
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
-- [LeetCode](https://leetcode.com/YOUR-ID/) (115+ problems and counting)
+- [LinkedIn]((https://www.linkedin.com/in/harsh-dubey-377971308))
+- [LeetCode]([https://leetcode.com/YOUR-ID/](https://leetcode.com/u/Harshh-2-/)) (115+ problems and counting)
 - [GitHub](https://github.com/harshh-2)
 
 ---
