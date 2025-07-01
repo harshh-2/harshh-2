@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey there! I'm Harsh 👋</h1>
 
 <p align="center">
