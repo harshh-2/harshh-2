@@ -20,7 +20,7 @@
 - 🎯 **Landing Page Project** – Deployed & live!
 - 🧠 **Banking System** (Python OOP)
 - 🎫 **QR Code Generator**
-- 🔍 **Email Validator**
+- 🔍 **The Game**
 
 > Want more? Check my pinned repos 👇
 
