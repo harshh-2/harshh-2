@@ -17,9 +17,9 @@
 
 ### 🚀 Some Stuff I’ve Built
 - 🖥️ **Amazon UI Clone** – Fully responsive front-end using HTML/CSS
-- 🎯 **Landing Page Project** – Deployed & live!
-- 🎫 **Etch a Sketch**
-- 🔍 **The Game**
+- 🎯 **[Landing Page Project](https://harshh-2.github.io/The-landing-Page/)** – Deployed & live!
+- 🎫 **[Etch a Sketch](https://harshh-2.github.io/Etch-a-Sketch/)**
+- 🔍 **[The Game](https://harshh-2.github.io/The-Game/)**
 - 🧠 **Banking System** (Python OOP)
 
 
