@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I'm Harsh 👋</h1>
 
 <p align="center">
-  🧑‍💻 B.Tech CSE @ SRM | C++ • Python • Web Dev<br>
-  🔨 Currently building cool UI stuff, solving 115+ LeetCode problems, and breaking things to learn faster<br>
+  🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • Web Dev<br>
+  🔨 Currently building cool UI stuff, solving 130+ LeetCode problems, and breaking things to learn faster<br>
 </p>
 
 ---
@@ -18,9 +18,10 @@
 ### 🚀 Some Stuff I’ve Built
 - 🖥️ **Amazon UI Clone** – Fully responsive front-end using HTML/CSS
 - 🎯 **Landing Page Project** – Deployed & live!
-- 🧠 **Banking System** (Python OOP)
-- 🎫 **QR Code Generator**
+- 🎫 **Etch a Sketch**
 - 🔍 **The Game**
+- 🧠 **Banking System** (Python OOP)
+
 
 > Want more? Check my pinned repos 👇
 
@@ -42,7 +43,7 @@
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/harsh-dubey-377971308)
-- [LeetCode](https://leetcode.com/u/Harshh-2-/)(115+ problems and counting)
+- [LeetCode](https://leetcode.com/u/Harshh-2-/)(130+ problems and counting)
 - [GitHub](https://github.com/harshh-2)
 
 ---
