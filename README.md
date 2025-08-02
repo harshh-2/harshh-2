@@ -2,7 +2,7 @@
 
 <p align="center">
   🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • Web Dev<br>
-  🔨 Currently building cool UI stuff, solving 130+ LeetCode problems, and breaking things to learn faster<br>
+  🔨 Currently building cool UI stuff, solving 150+ LeetCode problems, and breaking things to learn faster<br>
 </p>
 
 ---
