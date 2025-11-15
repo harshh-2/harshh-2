@@ -2,7 +2,7 @@
 
 <p align="center">
   🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • Web Dev<br>
-  🔨 Currently building cool UI stuff, solving 170+ LeetCode problems, and breaking things to learn faster<br>
+  🔨 Currently building cool UI stuff, solving 200+ LeetCode problems, and breaking things to learn faster<br>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/harsh-dubey-377971308)
-- [LeetCode](https://leetcode.com/u/Harshh-2-/)(170+ problems and counting)
+- [LeetCode](https://leetcode.com/u/Harshh-2-/)(200+ problems and counting)
 - [GitHub](https://github.com/harshh-2)
 
 ---
