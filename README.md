@@ -28,7 +28,7 @@
 
 ### 🚀 Some Stuff I’ve Built
 - 🖥️ **Amazon UI Clone** – Fully responsive front-end using HTML/CSS
-- 🎯 **[Smart Campus App]([https://harshh-2.github.io/The-landing-Page/](https://github.com/Shalin1204/smart-campus-app))** – Ios and Android!
+- 🎯 **[Smart Campus App]([https://harshh-2.github.io/The-landing-Page/](https://github.com/Shalin1204/smart-campus-app)** – Ios and Android!
 - 🔍 **[Certify](https://github.com/harshh-2/CertifyAI)**
 - 🗣️ **[Text-to-Speech](https://harshh-2.github.io/Text-To-Speech/)**
 - 🎫 **[Etch a Sketch](https://harshh-2.github.io/Etch-a-Sketch/)**
