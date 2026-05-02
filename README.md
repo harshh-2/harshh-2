@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.44</b><br/>
-  📱 Mobile & App Developer · Backend Engineer · AI Systems Builder<br/>
+  Software Development · App Developer · Backend Engineer · AI Systems Builder<br/>
   Flutter · Swift · C++ · DSA · FastAPI · Open Source
 </p>
 
@@ -34,7 +34,7 @@ I'm a second-year CS undergrad focused on **mobile & backend development**, buil
 
 ### 🛠️ Tech Stack
 
-#### 📱 Mobile & App Development
+#### 📱 App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) [Basics]
