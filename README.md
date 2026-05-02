@@ -1,45 +1,56 @@
 <h1 align="center">Hey there! I'm Harsh 👋</h1>
 
 <p align="center">
-  🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • App Dev<br>
-  🔨 Currently building stuff, solving 200+ LeetCode problems, and breaking things to learn faster<br>
+  🧑‍💻 B.Tech CSE @ SRMIST (Software Engineering) <br>
+  💡 C++ • DSA • App & Backend Development • AI Systems <br>
+  🚀 200+ LeetCode | GSSoC’25 Contributor | 2nd Runner-Up @ Foundathon 3.0
 </p>
 
 ---
 
-### 🛠️ Tech I'm Working With
+### 🛠️ Tech Stack
 
 - 💻 **Languages:** C++, Python, Java, JavaScript  
-- 📱 **App & Backend:** Flutter (Android / iOS / Web), REST APIs, Firebase Authentication  
-- 🌐 **Web Development:** HTML, CSS, JavaScript, React (basics)  
-- 🤖 **AI & Data:** Scikit-learn, Pandas, NumPy (ML fundamentals, AI-integrated systems)  
-- ☁️ **Tools & Platforms:** Git, GitHub, VS Code, Firebase  
+- 📱 **App Development:** Flutter (Android / iOS / Web), Swift (basics)
+- ⚙️ **Backend:** REST APIs, FastAPI, Firebase Auth, Node.js (learning)  
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React (basics)  
+- 🤖 **AI/ML:** Scikit-learn, Pandas, NumPy (building AI-integrated systems)  
+- ☁️ **Tools:** Git, GitHub, VS Code, Firebase  
 
 ---
 
-### 🚀 Currently Focused On
+### 🚀 Currently Building
 
-- 🧠 **DSA:** 200+ LeetCode problems (actively improving problem-solving & patterns)  
-- 🤖 **AI Applications:** Building AI-integrated systems (AI Tutor, recommendation engines)  
-- ⚙️ **Backend Development:** FastAPI / Node.js, API design & system workflows  
-- ☁️ **Cloud Basics:** Exploring AWS / Azure fundamentals
-
----
-
-### 🚀 Some Stuff I’ve Built
-- 🖥️ **Amazon UI Clone** – Fully responsive front-end using HTML/CSS
-- 🎯 **[Smart Campus App]([https://harshh-2.github.io/The-landing-Page/](https://github.com/Shalin1204/smart-campus-app)** – Ios and Android!
-- 🔍 **[Certify](https://github.com/harshh-2/CertifyAI)**
-- 🗣️ **[Text-to-Speech](https://harshh-2.github.io/Text-To-Speech/)**
-- 🎫 **[Etch a Sketch](https://harshh-2.github.io/Etch-a-Sketch/)**
-- 🧠 **Banking System** (Python OOP)
-
-
-> Want more? Check my pinned repos 👇
+- 🧠 **DSA Mastery:** 200+ LeetCode → scaling to advanced patterns  
+- 🤖 **AI Systems:** AI Tutor & recommendation-based applications  
+- ⚙️ **Backend Engineering:** API design, system workflows, integrations  
+- ☁️ **Cloud:** Exploring AWS / Azure fundamentals  
 
 ---
 
-### 📊 GitHub Stats (Just for Fun)
+### 🚀 Projects
+
+- 🖥️ **Amazon UI Clone** – Responsive front-end using HTML/CSS  
+- 📱 **[Smart Campus App](https://github.com/Shalin1204/smart-campus-app)** – Cross-platform app (Flutter)  
+- 🤖 **[Certify AI](https://github.com/harshh-2/CertifyAI)** – Resume parsing + recommendation system  
+- 🗣️ **[Text-to-Speech](https://harshh-2.github.io/Text-To-Speech/)** – Web Speech API project  
+- 🎫 **[Etch-a-Sketch](https://harshh-2.github.io/Etch-a-Sketch/)** – Interactive JS app  
+- 🧠 **Banking System** – Python OOP-based system  
+
+> More in pinned repositories 👇
+
+---
+
+### 🏆 Highlights
+
+- 🥈 **2nd Runner-Up @ Foundathon 3.0** (150+ teams)  
+- 🌍 **GSSoC’25 Contributor** (Top 25%)  
+- 💼 **Ex-SDE Intern @ MemoNeet**  
+- 🧠 **200+ LeetCode Problems Solved**  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshh-2&show_icons=true&theme=tokyonight" height="170">
@@ -48,16 +59,16 @@
 
 ---
 
-### 🧵Hobbies
-> `Pushing code, breaking things, fixing them — sometimes in that order .`
+### 🧵 Hobbies
+> `Pushing code, breaking things, fixing them — sometimes in that order.`
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/harsh-dubey-377971308)
-- [LeetCode](https://leetcode.com/u/Harshh-2-/)(200+ problems and counting)
+- [LeetCode](https://leetcode.com/u/Harshh-2-/) (200+ problems)
 - [GitHub](https://github.com/harshh-2)
 
 ---
 
-<p align="center">⚡ Always building. Always learning.</p>
+<p align="center">⚡ Building consistently. Learning aggressively.</p>
