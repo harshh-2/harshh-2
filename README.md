@@ -1,26 +1,37 @@
 <h1 align="center">Hey there! I'm Harsh 👋</h1>
 
 <p align="center">
-  🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • Web Dev<br>
-  🔨 Currently building cool UI stuff, solving 200+ LeetCode problems, and breaking things to learn faster<br>
+  🧑‍💻 B.Tech CSE @ SRM'KTR | C++ • Python • App Dev<br>
+  🔨 Currently building stuff, solving 200+ LeetCode problems, and breaking things to learn faster<br>
 </p>
 
 ---
 
-### 🛠️ Tech I'm Playing With
-- 💻 Languages: C++, Python,Java, HTML/CSS, JavaScript
-- 🌐 Web: Building landing pages & UI clones (Amazon, etc.)
-- 🔧 Tools: VS Code, Git & GitHub, Chrome DevTools
-- 📚 Currently Learning: DSA, DOM, JS Events
+### 🛠️ Tech I'm Working With
+
+- 💻 **Languages:** C++, Python, Java, JavaScript  
+- 📱 **App & Backend:** Flutter (Android / iOS / Web), REST APIs, Firebase Authentication  
+- 🌐 **Web Development:** HTML, CSS, JavaScript, React (basics)  
+- 🤖 **AI & Data:** Scikit-learn, Pandas, NumPy (ML fundamentals, AI-integrated systems)  
+- ☁️ **Tools & Platforms:** Git, GitHub, VS Code, Firebase  
+
+---
+
+### 🚀 Currently Focused On
+
+- 🧠 **DSA:** 200+ LeetCode problems (actively improving problem-solving & patterns)  
+- 🤖 **AI Applications:** Building AI-integrated systems (AI Tutor, recommendation engines)  
+- ⚙️ **Backend Development:** FastAPI / Node.js, API design & system workflows  
+- ☁️ **Cloud Basics:** Exploring AWS / Azure fundamentals
 
 ---
 
 ### 🚀 Some Stuff I’ve Built
 - 🖥️ **Amazon UI Clone** – Fully responsive front-end using HTML/CSS
-- 🎯 **[Landing Page Project](https://harshh-2.github.io/The-landing-Page/)** – Deployed & live!
+- 🎯 **[Smart Campus App]([https://harshh-2.github.io/The-landing-Page/](https://github.com/Shalin1204/smart-campus-app))** – Ios and Android!
+- - 🔍 **[Certify](https://github.com/harshh-2/CertifyAI))**
 - 🗣️ **[Text-to-Speech](https://harshh-2.github.io/Text-To-Speech/)**
 - 🎫 **[Etch a Sketch](https://harshh-2.github.io/Etch-a-Sketch/)**
-- 🔍 **[The Game](https://harshh-2.github.io/The-Game/)**
 - 🧠 **Banking System** (Python OOP)
 
 
