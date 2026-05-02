@@ -24,14 +24,16 @@
 
 I'm a second-year Computer Science student at SRMIST focused on building **real-world mobile, backend, and AI-integrated systems**.
 
-- 💼 Completed a **Software Engineering internship at MemoNeet**, contributing to production Flutter applications and backend integrations  
-- 🥈 **2nd Runner-Up at Foundathon 3.0** (Top 3 among 150+ teams) for building a real-world product  
+- 💼 Completed a **Software Engineering internship at MemoNeet**, contributing to a **production Flutter application (Android & iOS, 1M+ installs)** including feature development, UI improvements, and backend integrations  
+- 📱 Building cross-platform apps with **Flutter** and exploring **native iOS development (SwiftUI)**  
+- 🥈 **2nd Runner-Up at Foundathon 3.0** (Top 3 among 150+ teams) for building a real-world product in carbon-credits trading and tranfser domain  
 - 🌍 **GSSoC’25 Contributor** — Top 25% globally with 9+ merged PRs  
 - 📈 Selected for the **McKinsey Forward Program**, developing structured problem-solving and leadership skills  
 - 🤖 Currently building an **AI Tutor system** (LLM workflows, backend pipelines, context-aware responses)  
 - 🧠 Solved **200+ LeetCode problems**, actively advancing into medium-hard patterns  
 
-I’m particularly interested in building **scalable backend systems and AI-powered applications** that solve real problems.
+I’m particularly interested in building **scalable backend systems, mobile applications, and AI-powered products**.
+
 ---
 
 ### 🛠️ Tech Stack
