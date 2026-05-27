@@ -87,7 +87,7 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 
 ### 🚀 Featured Projects
 
-#### 🍽️ [ReciGuide]([https://github.com/harshh-2/recipe-book](https://github.com/harshh-2/Guide))
+#### 🍽️ [ReciGuide]([https://github.com/harshh-2/Guide])
 > Full-stack cross-platform recipe app built with React Native, Expo, Node.js, Express, PostgreSQL (Neon), and Drizzle ORM — featuring Clerk authentication, cloud-synced favorites, CRON jobs, ingredient search, YouTube integration, and glassmorphism UI across iOS, Android & Web.
 
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/harshh-2/recipe-book)
