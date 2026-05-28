@@ -164,21 +164,6 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 
 ---
 
-### 🌐 Language Breakdown
-
-> *Approximate distribution across personal projects and contributions*
-
-```text
-Dart / Flutter     ████████████░░░░░░░░   38%   (MemoNeet internship + mobile projects)
-JavaScript         ███████░░░░░░░░░░░░░   22%   (Web projects, Node.js backend)
-TypeScript         █████░░░░░░░░░░░░░░░   15%   (Recipe Book, full-stack apps)
-Python             ████░░░░░░░░░░░░░░░░   12%   (AI/ML projects, automation scripts)
-C++                ███░░░░░░░░░░░░░░░░░    8%   (DSA, competitive programming)
-Swift / Other      █░░░░░░░░░░░░░░░░░░░    5%   (iOS exploration, misc)
-```
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
