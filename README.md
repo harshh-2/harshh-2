@@ -148,33 +148,19 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshh-2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshh-2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshh-2&theme=tokyonight"/>
 </p>
 
----
-
-### 🌐 Language Breakdown
-
-> *Approximate distribution across personal projects and contributions*
-
-```text
-Dart / Flutter     ████████████░░░░░░░░   38%   (MemoNeet internship + mobile projects)
-JavaScript         ███████░░░░░░░░░░░░░   22%   (Web projects, Node.js backend)
-TypeScript         █████░░░░░░░░░░░░░░░   15%   (Recipe Book, full-stack apps)
-Python             ████░░░░░░░░░░░░░░░░   12%   (AI/ML projects, automation scripts)
-C++                ███░░░░░░░░░░░░░░░░░    8%   (DSA, competitive programming)
-Swift / Other      █░░░░░░░░░░░░░░░░░░░    5%   (iOS exploration, misc)
-```
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshh-2&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ### 📫 Let's Connect
 
