@@ -1,18 +1,21 @@
 <h1 align="center">Hey, I'm Harsh 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.44</b><br/>
-  Software Development · App Developer · Backend Engineer · AI Systems Builder<br/>
-  Flutter · React Native · Swift · C++ · DSA · FastAPI · Open Source
+<b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.44</b><br/>
+Software Development · App Developer · Backend Engineer · AI Systems Builder<br/>
+Flutter · React Native · Swift · C++ · DSA · FastAPI · Open Source
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-dubey-377971308">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/harshh-2">
-    <img src="https://img.shields.io/badge/GitHub-harshh--2-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/harsh-dubey-377971308">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Harshh-2-/">
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://github.com/harshh-2">
+<img src="https://img.shields.io/badge/GitHub-harshh--2-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -148,30 +151,44 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 
 ---
 
-### 📊 Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshh-2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh-2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshh-2&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=harshh-2&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshh-2&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+---
+
+### 🌐 Language Breakdown
+
+> *Approximate distribution across personal projects and contributions*
+
+```text
+Dart / Flutter     ████████████░░░░░░░░   38%   (MemoNeet internship + mobile projects)
+JavaScript         ███████░░░░░░░░░░░░░   22%   (Web projects, Node.js backend)
+TypeScript         █████░░░░░░░░░░░░░░░   15%   (Recipe Book, full-stack apps)
+Python             ████░░░░░░░░░░░░░░░░   12%   (AI/ML projects, automation scripts)
+C++                ███░░░░░░░░░░░░░░░░░    8%   (DSA, competitive programming)
+Swift / Other      █░░░░░░░░░░░░░░░░░░░    5%   (iOS exploration, misc)
+```
+
+---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-dubey-377971308">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/Harshh-2-/">LeetCode</a> ·
-  <a href="https://github.com/harshh-2">GitHub</a>
+<a href="https://www.linkedin.com/in/harsh-dubey-377971308">LinkedIn</a> ·
+<a href="https://leetcode.com/u/Harshh-2-/">LeetCode</a> ·
+<a href="https://github.com/harshh-2">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building consistently. Shipping real things. Learning aggressively.</i>
+<i>Building consistently. Shipping real things. Learning aggressively.</i>
 </p>
