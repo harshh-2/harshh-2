@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/harsh-dubey-377971308">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Harshh-2-/">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
   <a href="https://github.com/harshh-2">
     <img src="https://img.shields.io/badge/GitHub-harshh--2-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
