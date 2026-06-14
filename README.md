@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Harsh 👋</h1>
+<h1 align="center">Hey, I'm Harsh </h1>
 
 <p align="center">
 <b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.44</b><br/>
@@ -26,10 +26,10 @@ I'm a second-year Computer Science student at SRMIST focused on building **real-
 
 - 💼 Completed a **Software Engineering internship at MemoNeet**, contributing to a **production Flutter application (Android & iOS, 1M+ installs)** including feature development, UI improvements, and backend integrations
 - 📱 Building cross-platform apps with **Flutter** and **React Native**, and exploring **native iOS development (SwiftUI)**
+- 🐦 Building **BirdLens** — a full-stack AI-powered bird species recognition app with a Flutter frontend, microservices backend (Node.js + FastAPI), and a custom-trained PyTorch classifier deployed on AWS S3 + Docker
 - 🥈 **2nd Runner-Up at Foundathon 3.0** (Top 3 among 150+ teams) for building a real-world product in carbon-credits trading and transfer domain
 - 🌍 **GSSoC'25 Contributor** — Top 25% globally with 9+ merged PRs
 - 📈 Selected for the **McKinsey Forward Program**, developing structured problem-solving and leadership skills
-- 🤖 Currently building an **AI Tutor system** (LLM workflows, backend pipelines, context-aware responses)
 - 🧠 Solved **200+ LeetCode problems**, actively advancing into medium-hard patterns
 
 I'm particularly interested in building **scalable backend systems, mobile applications, and AI-powered products**.
@@ -67,8 +67,10 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E5BF?style=flat-square&logo=neon&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 #### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -78,6 +80,7 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 #### ☁️ Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -86,6 +89,17 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 ---
 
 ### 🚀 Featured Projects
+
+#### 🐦 [BirdLens](https://github.com/harshh-2/BirdLens)
+> Full-stack AI-powered bird species recognition mobile app. Flutter frontend communicates with a Node.js API gateway and a FastAPI ML microservice hosting a custom-trained PyTorch/MobileNet classifier (50+ species). Media stored on AWS S3, metadata persisted in PostgreSQL (Neon), fully containerized with Docker and deployed on Render.
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/harshh-2/BirdLens)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/harshh-2/BirdLens)
 
 #### 🍽️ [ReciGuide](https://github.com/harshh-2/Guide)
 > Full-stack cross-platform recipe app built with React Native, Expo, Node.js, Express, PostgreSQL (Neon), and Drizzle ORM — featuring Clerk authentication, cloud-synced favorites, CRON jobs, ingredient search, YouTube integration, and glassmorphism UI across iOS, Android & Web.
@@ -175,5 +189,5 @@ I'm particularly interested in building **scalable backend systems, mobile appli
 ---
 
 <p align="center">
-<i>Building consistently. Shipping real things. Learning aggressively.</i>
+<i>Building consistently. Shipping real things. Learning along the way.</i>
 </p>
