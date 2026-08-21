@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Harsh </h1>
 
 <p align="center">
-<b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.44</b><br/>
+<b>B.Tech CSE (Software Engineering) · SRMIST · CGPA 9.56</b><br/>
 Software Development · App Developer · Backend Engineer · AI Systems Builder<br/>
 Flutter · React Native · Swift · C++ · DSA · FastAPI · Open Source
 </p>
@@ -22,7 +22,7 @@ Flutter · React Native · Swift · C++ · DSA · FastAPI · Open Source
 
 ### 👨‍💻 About Me
 
-I'm a second-year Computer Science student at SRMIST focused on building **real-world mobile, backend, and AI-integrated systems**.
+I'm a third-year Computer Science student at SRMIST focused on building **real-world mobile, backend, and AI-integrated systems**.
 
 - 💼 Completed a **Software Engineering internship at MemoNeet**, contributing to a **production Flutter application (Android & iOS, 1M+ installs)** including feature development, UI improvements, and backend integrations
 - 📱 Building cross-platform apps with **Flutter** and **React Native**, and exploring **native iOS development (SwiftUI)**
